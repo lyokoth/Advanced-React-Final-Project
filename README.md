@@ -1,0 +1,1 @@
+A final project for the Advanced React Course taught by Meta.
